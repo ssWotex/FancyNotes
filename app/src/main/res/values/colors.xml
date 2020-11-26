@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2980B9</color>
+    <color name="colorPrimaryDark">#BEA1FF</color>
+    <color name="colorAccent">#6DD5FA</color>
+    <color name="evening_sunshine_start">#b92b27</color>
+    <color name="evening_sunshine_end">#1565C0</color>
+</resources>
